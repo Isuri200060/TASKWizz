@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TASKWIzz</string>
+    <string name="save">Save</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="update">Update</string>
+    <string name="taskwizz">TASKWIzz</string>
+    <string name="make_your_everyday_lifestyle_easier">Make your everyday lifestyle easier</string>
+    <string name="search">Search</string>
+    <string name="date">Date</string>
+</resources>

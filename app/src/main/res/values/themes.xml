@@ -1,0 +1,29 @@
+<resources >
+    <style name="Base.Theme.TASKWizz" parent="Theme.Material3.Light.NoActionBar">
+
+
+
+    </style>
+
+    <style name="Theme.TASKWizz" parent="Base.Theme.TASKWizz" />
+
+    <style name="CardViewStyle" parent="Widget.Material3.CardView.Filled">
+        <item name="shapeAppearanceOverlay">@style/CutShape</item>
+    </style>
+    <style name="CutShape" parent="ShapeAppearance.Material3.MediumComponent">
+
+    </style>
+    <style name="Widget.App.TextInputLayout" parent="Widget.Material3.TextInputLayout.FilledBox">
+
+    </style>
+    <style name="SearchInputLayout" parent="">
+
+    </style>
+    <style name="Widget.App.Button.Fill" parent="Widget.Material3.Button">
+        <item name="shapeAppearance">@style/CutShape</item>
+    </style>
+
+    <style name="DialogCustomTheme" parent="Theme.Material3.DayNight.Dialog">
+
+    </style>
+</resources>
